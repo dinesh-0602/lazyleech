@@ -81,7 +81,9 @@ testwatermark
 
 ## Credits 📍
 
-[@TheKneesocks](https://t.me/TheKneesocks)
+[@TheKneesocks](https://t.me/TheKneesocks)<br>
+[@DeletedUser420](https://t.me/DeletedUser420)<br>
+[WeebTime](https://github.com/WeebTime) on github for his [repo](https://github.com/WeebTime/Torrent-Bot-Lazyleech)
 
 ## Points To Be Noted 
 
